@@ -1,0 +1,19 @@
+{
+  "name": "url_parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jsdom": "^11.2.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "x-ray": "^2.3.2",
+    "x-ray-phantom": "^1.0.1"
+  }
+}
